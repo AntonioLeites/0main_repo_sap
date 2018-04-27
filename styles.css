@@ -1,0 +1,25 @@
+h1 {
+	color: #000;
+	margin-left: 50px;
+	font-size: 3.5em;
+}
+
+ul {
+	list-style-type: square;
+	background-color: #f1f1f1;
+	margin: 0;
+	padding: 0;
+	width:700px;
+}
+li a  {
+	list-style-type: square;
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-color: #D97C68;
+	color: blue;
+}
