@@ -1,3 +1,3 @@
-# SAPUI5
+# GIT demos
 
 openSAP Course
