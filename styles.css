@@ -13,6 +13,7 @@ ul {
 }
 li a  {
 	list-style-type: square;
+	font-style: italic;
 	display: block;
 	color: #000;
 	padding: 8px 16px;
@@ -22,4 +23,13 @@ li a  {
 li a:hover{
 	background-color: #D97C68;
 	color: blue;
+}
+
+li bi  {
+	list-style-type: square;
+	font-style: italic;
+	display: block;
+	color: #000;
+	padding: 8px 16px;
+	text-decoration: none;
 }
